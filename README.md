@@ -1,5 +1,5 @@
 # Modular-Implementation-of-Feedforward-Neural-Network
-UCSD CSE 253 HW
+UCSD CSE 253 HW - Pair Programming with Osman Cihan Kilinc.
 
 The code was developed using Python 3.6. 
 
